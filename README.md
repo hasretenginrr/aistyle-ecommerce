@@ -8,6 +8,20 @@ AIStyle is described in the original project documentation as a web-based e-comm
 
 > **Repository status:** The inspected `main` branch contains only this README. Source code, datasets, database migrations, and setup scripts are not included. The implementation details below preserve the original project description; they have not been verified against source code or a running application.
 
+<img width="1875" height="897" alt="Ekran görüntüsü 2025-06-02 144113" src="https://github.com/user-attachments/assets/b26c13ca-0a91-4c75-a146-b9605e6b8b61" />
+
+<img width="1192" height="522" alt="Ekran görüntüsü 2025-06-02 144548" src="https://github.com/user-attachments/assets/3a893c5c-ca75-4bb9-8713-29e388caf4b8" />
+<img width="1861" height="868" alt="Ekran görüntüsü 2025-06-02 144445" src="https://github.com/user-attachments/assets/8bcf10ff-178d-4df0-8f7e-5768f18b6b0c" />
+
+<img width="1878" height="850" alt="Ekran görüntüsü 2025-06-02 145036" src="https://github.com/user-attachments/assets/a0e1f1e7-f6fb-4466-b398-dbc5b766ff2c" />
+<img width="1557" height="474" alt="Ekran görüntüsü 2025-06-02 145221" src="https://github.com/user-attachments/assets/34190837-75f7-420c-98b2-4023f19ce133" />
+<img width="1452" height="824" alt="Ekran görüntüsü 2025-06-02 145230" src="https://github.com/user-attachments/assets/a21c6e19-093a-41ce-b3bf-07c8d64619ec" />
+<img width="1400" height="803" alt="Ekran görüntüsü 2025-06-14 184333" src="https://github.com/user-attachments/assets/27d36beb-6af7-41ce-86ed-08905752c7f0" />
+
+
+
+
+
 ## Project Scope
 
 The original documentation describes:
